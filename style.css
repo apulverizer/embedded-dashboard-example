@@ -1,0 +1,23 @@
+.iframe-dashboard {
+  width: 1024px;
+  height: 768px;
+}
+
+.title {
+  color: #267300;
+}
+
+.div-center {
+    margin: auto;
+    width: 75%;
+    border: 3px solid #267300;
+    padding: 10px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
